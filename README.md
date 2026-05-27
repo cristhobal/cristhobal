@@ -1,16 +1,10 @@
 ### Hi, I'm Cristhobal
 
-_(Yes, spell it right. I won't repeat myself.)_
-
-Fullstack developer. Chilean. <!-- YEARS -->4<!-- /YEARS -->+ years doing what most people call "impossible" and what I call _Tuesday_ — turning bureaucratic dumpster fires into clean, functional systems. Web platforms, administrative tools, the occasional FiveM script when I get bored. Which is rare. I'm never bored.
-
-> _"Is it technically impressive? Yes. Did I make it look easy? Also yes. Are those two things related? Absolutely."_
+Fullstack developer based in Chile. Over 4 years of experience building web platforms, administrative systems, and custom tools — turning complex challenges into clean, functional solutions.
 
 ---
 
 ### Tech Stack
-
-_(Not bragging. Just facts.)_
 
 #### Languages
 
@@ -25,8 +19,6 @@ _(Not bragging. Just facts.)_
 
 #### Frontend
 
-_(What the people actually see. So yes, it has to be perfect.)_
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -34,8 +26,6 @@ _(What the people actually see. So yes, it has to be perfect.)_
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
 
 #### Backend & Infra
-
-_(The part that keeps everything from exploding. You're welcome.)_
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -46,8 +36,6 @@ _(The part that keeps everything from exploding. You're welcome.)_
 
 #### Cloud & Tools
 
-_(Because genius-level work deserves genius-level infrastructure.)_
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -56,11 +44,11 @@ _(Because genius-level work deserves genius-level infrastructure.)_
 
 ---
 
-### Find me. If you can keep up.
+### Get in touch
 
 [![Portfolio](https://img.shields.io/badge/cristhobal.cl-000000?style=flat-square&logo=vercel&logoColor=white)](https://cristhobal.cl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhobal)
 
 ---
 
-_"I am Cristhobal, and I build things that work."_
+_Building things that work, one project at a time._
