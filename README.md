@@ -1,10 +1,16 @@
 ### Hi, I'm Cristhobal
 
-Fullstack developer based in Chile. Over 4 years of experience turning complex challenges into clean, functional solutions — from web platforms and administrative tools to custom tools.
+Fullstack developer from Chile with <!-- YEARS -->4<!-- /YEARS -->+ years building modern web platforms, internal tools, and scalable systems focused on performance, usability, and clean architecture.
+
+I enjoy turning complex or messy processes into products that feel simple, efficient, and reliable. Most of my work revolves around web development, administrative platforms, automation, and occasionally FiveM projects when I want to experiment with something different.
+
+> _"Good software should solve problems without creating new ones."_
 
 ---
 
 ### Tech Stack
+
+A collection of technologies and tools I frequently work with.
 
 #### Languages
 
@@ -19,6 +25,8 @@ Fullstack developer based in Chile. Over 4 years of experience turning complex c
 
 #### Frontend
 
+Focused on creating clean, responsive, and intuitive user experiences.
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -26,6 +34,8 @@ Fullstack developer based in Chile. Over 4 years of experience turning complex c
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
 
 #### Backend & Infra
+
+Building reliable systems, APIs, and infrastructure that scale properly.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -36,6 +46,8 @@ Fullstack developer based in Chile. Over 4 years of experience turning complex c
 
 #### Cloud & Tools
 
+Tools and platforms I use to ship and maintain projects efficiently.
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -44,11 +56,11 @@ Fullstack developer based in Chile. Over 4 years of experience turning complex c
 
 ---
 
-### Get in touch
+### Connect
 
 [![Portfolio](https://img.shields.io/badge/cristhobal.cl-000000?style=flat-square&logo=vercel&logoColor=white)](https://cristhobal.cl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhobal)
 
 ---
 
-_Building things that work, one project at a time._
+_"Building products that are clean, functional, and made to last."_
